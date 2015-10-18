@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/comporator/SortBySugar.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/comporator/SortByWeight.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/entity/Rafaello.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/entity/Snikers.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/entity/Sweets.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/logic/Santa.java" charset="windows-1251" />
+  </component>
+</project>
